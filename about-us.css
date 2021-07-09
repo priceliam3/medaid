@@ -1,0 +1,842 @@
+@media only screen and (min-width: 1024px) {
+  body{
+    font-family: 'Open Sans';
+  }
+  .wrapper{
+    width: 48%;
+  }
+
+  .logo {
+    position: relative;
+    top: 55px;
+    left: 103%;
+    
+  }
+
+  .logotxt {
+    position: relative;
+    top: 40px;
+    left: 87%;
+    font-size: 1.5em;
+    color: #c3c7d2;
+  }
+
+  .title {
+    position: relative;
+    top: 40px;
+    left: 90%;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 100% 50%;
+    grid-template-rows: 50% 50%;
+    position: relative;
+    top: 80px;
+    grid-column-gap: 30px;
+    width: 100%;
+    height: 470px;
+  }
+
+  .container2{
+    display: grid;
+    grid-template-columns: 100% 48% 48%;
+    grid-template-rows: 100%;
+    grid-column-gap: 40px;
+    position: relative;
+    top: 114px;
+  }
+
+  .om {
+    background-color: #e4e4e4;
+  }
+
+  .omh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.3em;
+    
+  }
+
+  .omt {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -14%;
+    font-size: 0.9em;
+  }
+
+  .of {
+  }
+
+  .ofh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.3em;
+  }
+
+  .oft {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -12%;
+    font-size: 0.9em;
+  }
+
+  .os {
+    background-color: #c4c4c4;
+  }
+
+  .osh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.3em;
+  }
+
+  .osi {
+  }
+
+  .imageos {
+   position: relative;
+   left: 45%;
+   top: -25px;
+  }
+
+  .omi {
+  }
+
+  .imageom {
+    width: 208%;
+  }
+
+  .ofi {
+
+  }
+
+  .ofp {
+  }
+
+  .imageof {
+    width: 80%;
+    position: relative;
+    top: 25px;
+    left: 50%;
+  }
+
+  .box {
+    padding-left: 20px;
+    background-color: #c4c4c4;
+  }
+
+  .ft-1 {
+    
+  }
+
+  .ft-2 {
+    
+  }
+
+  .ft1t {
+    
+  }
+
+  .ft1h {
+    font-size: 1.6em;
+  }
+
+  .ft1s {
+  }
+
+  .ft2t {
+    
+  }
+
+  .ft2h {
+    font-size: 1.7em;
+  }
+
+  .ft2s {
+  }
+
+  .form{
+    
+  }
+
+  footer{
+    
+  }
+
+  .foot {
+    width: 100%;
+    background-color: #514d57;
+    position: relative;
+    top: 130px;
+  }
+
+  .foottxt {
+    font-size: 1em;
+    color: #ffffff;
+    font-weight: 400;
+    position: relative;
+    top: 30px;
+    left: 10%;
+  }
+
+  .footsub {
+    font-weight: 700;
+    font-size: 0.96em;
+  }
+
+  .label {
+    color: #ffffff;
+    font-size: 0.72em;
+    position: relative;
+    left: 65%;
+    top: -40px;
+  }
+
+  .field {
+    width: 300px;
+    height: 30px;
+    position: relative;
+    left: 65%;
+    top: -40px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .submit {
+    width: 197px;
+    height: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 65%;
+    top: -35px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f3ea12;
+  }
+
+  .submit:hover {
+    cursor: pointer;
+  }
+
+  .navbar {
+    background-color: #f9f9f9;
+    height: 60px;
+  }
+
+  .logon {
+    position: relative;
+    top: 18%;
+    left: 5%;
+  }
+
+  .logon:hover {
+    cursor: pointer;
+  }
+
+  .home {
+    position: relative;
+    left: 50%;
+  }
+
+  .l1 {
+    position: relative;
+    left: 52%;
+  }
+
+  .l2 {
+    position: relative;
+    left: 54%;
+  }
+
+  .l3 {
+    position: relative;
+    left: 56%;
+  }
+
+  .l4 {
+    position: relative;
+    left: 58%;
+  }
+
+  .navbutton {
+    font-weight: 700;
+    color: #180126;
+  }
+
+  .navbutton:hover {
+    color: #072Ac8;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  body{
+    font-family: 'Open Sans';
+  }
+  .wrapper{
+    width: 48%;
+  }
+
+  .logo {
+    position: relative;
+    top: 50px;
+    left: 100%;
+    width: 45px;
+    
+  }
+
+  .logotxt {
+    position: relative;
+    top: 40px;
+    left: 87%;
+    font-size: 1.8em;
+    color: #c3c7d2;
+  }
+
+  .title {
+    position: relative;
+    top: 40px;
+    left: 90%;
+    font-size: 1.2em;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 100% 50%;
+    grid-template-rows: 50% 50%;
+    position: relative;
+    top: 80px;
+    grid-column-gap: 30px;
+    width: 100%;
+    height: 640px;
+  }
+
+  .container2{
+    display: grid;
+    grid-template-columns: 100% 48% 48%;
+    grid-template-rows: 103%;
+    grid-column-gap: 40px;
+    position: relative;
+    top: 114px;
+  }
+
+  .om {
+    background-color: #e4e4e4;
+  }
+
+  .omh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .omt {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -14%;
+    font-size: 1.2em;
+  }
+
+  .of {
+  }
+
+  .ofh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .oft {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -12%;
+    font-size: 1.2em;
+  }
+
+  .os {
+    background-color: #c4c4c4;
+  }
+
+  .osh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .osi {
+  }
+
+  .imageos {
+   position: relative;
+   left: 55%;
+   top: -30px;
+  }
+
+  .omi {
+  }
+
+  .imageom {
+    width: 208%;
+  }
+
+  .ofi {
+
+  }
+
+  .ofp {
+  }
+
+  .imageof {
+    width: 80%;
+    position: relative;
+    top: 25px;
+    left: 50%;
+  }
+
+  .box {
+    padding-left: 20px;
+    background-color: #c4c4c4;
+  }
+
+  .ft-1 {
+    
+  }
+
+  .ft-2 {
+    
+  }
+
+  .ft1t {
+    font-size: 1.1em;
+  }
+
+  .ft1h {
+    font-size: 1.8em;
+  }
+
+  .ft1s {
+  }
+
+  .ft2t {
+    font-size: 1.1em;
+  }
+
+  .ft2h {
+    font-size: 1.8em;
+  }
+
+  .ft2s {
+  }
+
+  .form{
+    
+  }
+
+  footer{
+    
+  }
+
+  .foot {
+    width: 100%;
+    background-color: #514d57;
+    position: relative;
+    top: 130px;
+  }
+
+  .foottxt {
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: 400;
+    position: relative;
+    top: 30px;
+    left: 10%;
+  }
+
+  .footsub {
+    font-weight: 700;
+    font-size: 0.96em;
+  }
+
+  .label {
+    color: #ffffff;
+    font-size: 0.92em;
+    position: relative;
+    left: 65%;
+    top: -65px;
+  }
+
+  .field {
+    width: 343px;
+    height: 30px;
+    position: relative;
+    left: 65%;
+    top: -60px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .submit {
+    width: 197px;
+    height: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 65%;
+    top: -50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f3ea12;
+    font-size: 1em;
+  }
+
+  .submit:hover {
+    cursor: pointer;
+  }
+
+  .navbar {
+    background-color: #f9f9f9;
+    height: 60px;
+  }
+
+  .logon {
+    position: relative;
+    top: 18%;
+    left: 5%;
+  }
+
+  .logon:hover {
+    cursor: pointer;
+  }
+
+  .home {
+    position: relative;
+    left: 56%;
+  }
+
+  .l1 {
+    position: relative;
+    left: 58%;
+  }
+
+  .l2 {
+    position: relative;
+    left: 60%;
+  }
+
+  .l3 {
+    position: relative;
+    left: 62%;
+  }
+
+  .l4 {
+    position: relative;
+    left: 64%;
+  }
+
+  .navbutton {
+    font-weight: 700;
+    color: #180126;
+    font-size: 1.1em;
+  }
+
+  .navbutton:hover {
+    color: #072Ac8;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  body{
+    font-family: 'Open Sans';
+  }
+  .wrapper{
+    width: 48%;
+  }
+
+  .logo {
+    position: relative;
+    top: 50px;
+    left: 100%;
+    width: 45px;
+    
+  }
+
+  .logotxt {
+    position: relative;
+    top: 40px;
+    left: 87%;
+    font-size: 1.8em;
+    color: #c3c7d2;
+  }
+
+  .title {
+    position: relative;
+    top: 40px;
+    left: 90%;
+    font-size: 1.2em;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 100% 50%;
+    grid-template-rows: 50% 50%;
+    position: relative;
+    top: 80px;
+    grid-column-gap: 30px;
+    width: 100%;
+    height: 640px;
+  }
+
+  .container2{
+    display: grid;
+    grid-template-columns: 100% 48% 48%;
+    grid-template-rows: 103%;
+    grid-column-gap: 40px;
+    position: relative;
+    top: 114px;
+  }
+
+  .om {
+    background-color: #e4e4e4;
+  }
+
+  .omh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .omt {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -14%;
+    font-size: 1.2em;
+  }
+
+  .of {
+  }
+
+  .ofh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .oft {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -12%;
+    font-size: 1.2em;
+  }
+
+  .os {
+    background-color: #c4c4c4;
+  }
+
+  .osh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    font-size: 1.8em;
+  }
+
+  .osi {
+  }
+
+  .imageos {
+   position: relative;
+   left: 55%;
+   top: -30px;
+  }
+
+  .omi {
+  }
+
+  .imageom {
+    width: 208%;
+  }
+
+  .ofi {
+
+  }
+
+  .ofp {
+  }
+
+  .imageof {
+    width: 80%;
+    position: relative;
+    top: 25px;
+    left: 50%;
+  }
+
+  .box {
+    padding-left: 20px;
+    background-color: #c4c4c4;
+  }
+
+  .ft-1 {
+    
+  }
+
+  .ft-2 {
+    
+  }
+
+  .ft1t {
+    font-size: 1.1em;
+  }
+
+  .ft1h {
+    font-size: 1.8em;
+  }
+
+  .ft1s {
+  }
+
+  .ft2t {
+    font-size: 1.1em;
+  }
+
+  .ft2h {
+    font-size: 1.8em;
+  }
+
+  .ft2s {
+  }
+
+  .form{
+    
+  }
+
+  footer{
+    
+  }
+
+  .foot {
+    width: 100%;
+    background-color: #514d57;
+    position: relative;
+    top: 130px;
+  }
+
+  .foottxt {
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: 400;
+    position: relative;
+    top: 30px;
+    left: 10%;
+  }
+
+  .footsub {
+    font-weight: 700;
+    font-size: 0.96em;
+  }
+
+  .label {
+    color: #ffffff;
+    font-size: 0.92em;
+    position: relative;
+    left: 65%;
+    top: -65px;
+  }
+
+  .field {
+    width: 343px;
+    height: 30px;
+    position: relative;
+    left: 65%;
+    top: -60px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .submit {
+    width: 197px;
+    height: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 65%;
+    top: -50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f3ea12;
+    font-size: 1em;
+  }
+
+  .submit:hover {
+    cursor: pointer;
+  }
+
+  .navbar {
+    background-color: #f9f9f9;
+    height: 60px;
+  }
+
+  .logon {
+    position: relative;
+    top: 18%;
+    left: 5%;
+  }
+
+  .logon:hover {
+    cursor: pointer;
+  }
+
+  .home {
+    position: relative;
+    left: 60%;
+  }
+
+  .l1 {
+    position: relative;
+    left: 62%;
+  }
+
+  .l2 {
+    position: relative;
+    left: 64%;
+  }
+
+  .l3 {
+    position: relative;
+    left: 66%;
+  }
+
+  .l4 {
+    position: relative;
+    left: 68%;
+  }
+
+  .navbutton {
+    font-weight: 700;
+    color: #180126;
+    font-size: 1.1em;
+  }
+
+  .navbutton:hover {
+    color: #072Ac8;
+  }
+}
