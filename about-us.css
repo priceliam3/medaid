@@ -1,0 +1,275 @@
+@media only screen and (min-width: 0px) {
+  body{
+    font-family: 'Open Sans';
+  }
+  .wrapper{
+    width: 48%;
+  }
+
+  .logo {
+    position: relative;
+    top: 50px;
+    left: 100%;
+    
+  }
+
+  .logotxt {
+    position: relative;
+    top: 40px;
+    left: 87%;
+    font-size: 25px;
+    color: #c3c7d2;
+  }
+
+  .title {
+    position: relative;
+    top: 40px;
+    left: 90%;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 100% 50%;
+    grid-template-rows: 50% 53%;
+    position: relative;
+    top: 80px;
+    grid-column-gap: 30px;
+    width: 100%;
+  }
+
+  .container2{
+    display: grid;
+    grid-template-columns: 100% 48% 48%;
+    grid-template-rows: 103%;
+    grid-column-gap: 40px;
+    position: relative;
+    top: 114px;
+  }
+
+  .om {
+    background-color: #e4e4e4;
+  }
+
+  .omh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+    
+  }
+
+  .omt {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -12%;
+  }
+
+  .of {
+  }
+
+  .ofh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+  }
+
+  .oft {
+    width: 40%;
+    position: relative;
+    left: 55%;
+    top: -12%;
+  }
+
+  .os {
+    background-color: #c4c4c4;
+  }
+
+  .osh {
+    font-weight: 400;
+    position: relative;
+    top: 35%;
+    left: 10%;
+  }
+
+  .osi {
+  }
+
+  .imageos {
+   position: relative;
+   left: 55%;
+   top: -30px;
+  }
+
+  .omi {
+  }
+
+  .imageom {
+    width: 208%;
+  }
+
+  .ofi {
+
+  }
+
+  .ofp {
+  }
+
+  .imageof {
+    width: 80%;
+    position: relative;
+    top: 25px;
+    left: 50%;
+  }
+
+  .box {
+    padding-left: 20px;
+    background-color: #c4c4c4;
+  }
+
+  .ft-1 {
+    
+  }
+
+  .ft-2 {
+    
+  }
+
+  .ft1t {
+    
+  }
+
+  .ft1h {
+    font-size: 30px;
+  }
+
+  .ft1s {
+  }
+
+  .ft2t {
+    
+  }
+
+  .ft2h {
+    
+  }
+
+  .ft2s {
+  }
+
+  .form{
+    
+  }
+
+  footer{
+    
+  }
+
+  .foot {
+    width: 100%;
+    background-color: #514d57;
+    position: relative;
+    top: 130px;
+  }
+
+  .foottxt {
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: 400;
+    position: relative;
+    top: 30px;
+    left: 10%;
+  }
+
+  .footsub {
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  .label {
+    color: #ffffff;
+    font-size: 12px;
+    position: relative;
+    left: 65%;
+    top: -60px;
+  }
+
+  .field {
+    width: 343px;
+    height: 30px;
+    position: relative;
+    left: 65%;
+    top: -60px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .submit {
+    width: 197px;
+    height: 30px;
+    font-weight: 700;
+    position: relative;
+    left: 65%;
+    top: -55px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f3ea12;
+  }
+
+  .submit:hover {
+    cursor: pointer;
+  }
+
+  .navbar {
+    background-color: #f9f9f9;
+    height: 60px;
+  }
+
+  .logon {
+    position: relative;
+    top: 18%;
+    left: 5%;
+  }
+
+  .logon:hover {
+    cursor: pointer;
+  }
+
+  .home {
+    position: relative;
+    left: 60%;
+  }
+
+  .l1 {
+    position: relative;
+    left: 62%;
+  }
+
+  .l2 {
+    position: relative;
+    left: 64%;
+  }
+
+  .l3 {
+    position: relative;
+    left: 66%;
+  }
+
+  .l4 {
+    position: relative;
+    left: 68%;
+  }
+
+  .navbutton {
+    font-weight: 700;
+    color: #180126;
+  }
+
+  .navbutton:hover {
+    color: #072Ac8;
+  }
+}
+
+
+
